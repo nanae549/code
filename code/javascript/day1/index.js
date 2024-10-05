@@ -34,6 +34,10 @@ var x= 54
 console.log(x);
 console.log(typeof x);
 
+var x= 54
+console.log(x);
+console.log(typeof x);
+
 
 
 
